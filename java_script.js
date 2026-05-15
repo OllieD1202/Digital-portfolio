@@ -5,6 +5,7 @@ let passwordBox = document.getElementById("password");
 let submitButton = document.getElementById("submit");
 
 submitButton.addEventListener("click", function() {
+    event.preventDefault();
     console.log(usernameBox.value);
     console.log(passwordBox.value);
 
