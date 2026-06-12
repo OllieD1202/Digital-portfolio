@@ -38,8 +38,8 @@ ul.topnav li a.active{
 .main{
     margin: top 800px;
     text-align:center;
-    color: #149cbe;
-    font-style: oblique;
+    color: #000000;
+    font-style: courier;
     font-size: large;
 }
 
