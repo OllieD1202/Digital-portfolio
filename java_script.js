@@ -9,7 +9,7 @@ submitButton.addEventListener("click", function() {
     console.log(usernameBox.value);
     console.log(passwordBox.value);
 
-    if (usernameBox.value === "OllieD1202" && passwordBox.value === "1234") {
+    if (usernameBox.value === "Username1" && passwordBox.value === "Password1") {
         window.location.href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
     }
 })
